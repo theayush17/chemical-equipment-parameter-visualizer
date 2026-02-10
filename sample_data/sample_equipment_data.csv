@@ -1,0 +1,10 @@
+
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Pump P-101,Centrifugal,150.5,12.4,45.2
+Exchanger E-202,Shell and Tube,0.0,3.5,135.0
+Reactor R-501,CSTR,25.0,25.0,220.0
+Pump P-102,Centrifugal,145.2,11.8,42.0
+Exchanger E-203,Plate,0.0,2.8,95.5
+Tank T-100,Storage,12.0,1.1,25.0
+Pump P-303,Diaphragm,5.5,45.0,30.0
+Filter F-11,Leaf,45.0,2.0,35.0
