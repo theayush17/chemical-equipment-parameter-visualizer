@@ -1,0 +1,5 @@
+{
+  "name": "Chemical Equipment Parameter Visualizer",
+  "description": "A hybrid full-stack system for analyzing and visualizing chemical equipment data from CSV uploads, featuring a Django REST backend, React web dashboard, and PyQt5 desktop application.",
+  "requestFramePermissions": []
+}
